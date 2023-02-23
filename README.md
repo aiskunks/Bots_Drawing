@@ -1,2 +1,5 @@
-# Bots_Drawing
-Bots_Drawing
+# Bots Drawing
+
+Bots Drawing Famous Figures in Artificial Intelligence
+
+
